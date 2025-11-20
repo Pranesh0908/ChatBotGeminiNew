@@ -1,3 +1,7 @@
+
+## 🚀 Live Demo
+[Click here to view the hosted app](https://chatbotgemininew.onrender.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
